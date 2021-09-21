@@ -1,0 +1,8 @@
+{
+  "name": "controli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jsvitor/controli.git",
+  "author": "Vitor <jszvitor@gmail.com>",
+  "license": "MIT"
+}
